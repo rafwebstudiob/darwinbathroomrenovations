@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://darwinbathroomrenovations.com.au/sitemap.xml
